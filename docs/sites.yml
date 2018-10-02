@@ -2692,14 +2692,23 @@
     - Travel
   built_by: Orestis Ioannou
   featured: false
-- title: Brittany Chiang
-  main_url: https://brittanychiang.com/
-  url: https://brittanychiang.com/
-  source_url: https://github.com/bchiang7/v4
+- title: Kelvin Kamau
+  main_url: "https://www.kelvinkamau.app/"
+  url: "https://www.kelvinkamau.app/"
   description: >
-    Personal website and portfolio of Brittany Chiang built with Gatsby v2
+    Official Website of a maker and software artisan in Kenya.
   categories:
     - Portfolio
-  built_by: Brittany Chiang
-  built_by_url: https://github.com/bchiang7
+    - Miscellaneous
+  featured: false
+- title: Traditional Realist, Oil Painter | John Hansen Artist
+  main_url: "https://johnhansenartist.com/"
+  url: "https://johnhansenartist.com/"
+  description: >
+    John Hansen Artist a portfolio website of my artwork, traditional realist paintings, built by me because I like to dabble in code!
+  categories:
+    - Portfolio
+    - Gallery
+  built_by: John Hansen Semi-newbie Developer
+  built_by_url: https://github.com/linoxyn
   featured: false
